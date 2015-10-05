@@ -1,0 +1,41 @@
+C:\Users\PGH\Documents\Visual Studio 2010\Projects\Encs_Importer\Encs_Importer\bin\Debug\Encs_Importer.exe
+C:\Users\PGH\Documents\Visual Studio 2010\Projects\Encs_Importer\Encs_Importer\bin\Debug\Encs_Importer.pdb
+C:\Users\PGH\Documents\Visual Studio 2010\Projects\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.Form1.resources
+C:\Users\PGH\Documents\Visual Studio 2010\Projects\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.Properties.Resources.resources
+C:\Users\PGH\Documents\Visual Studio 2010\Projects\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.csproj.GenerateResource.Cache
+C:\Users\PGH\Documents\Visual Studio 2010\Projects\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.exe
+C:\Users\PGH\Documents\Visual Studio 2010\Projects\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.pdb
+C:\Users\PGH\Documents\Visual Studio 2010\Projects\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Encs_Importer\Encs_Importer\bin\Debug\Encs_Importer.exe
+C:\Users\user\Desktop\Encs_Importer\Encs_Importer\bin\Debug\Encs_Importer.pdb
+C:\Users\user\Desktop\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.Form1.resources
+C:\Users\user\Desktop\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.Properties.Resources.resources
+C:\Users\user\Desktop\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.exe
+C:\Users\user\Desktop\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.pdb
+C:\Users\user\Desktop\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.csprojResolveAssemblyReference.cache
+C:\Users\PGH\Desktop\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.exe
+C:\Users\PGH\Desktop\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.pdb
+C:\Users\PGH\Desktop\Encs_Importer\Encs_Importer\bin\Debug\Encs_Importer.exe
+C:\Users\PGH\Desktop\Encs_Importer\Encs_Importer\bin\Debug\Encs_Importer.pdb
+C:\Users\PGH\Desktop\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.csprojResolveAssemblyReference.cache
+C:\Users\PGH\Desktop\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.Form1.resources
+C:\Users\PGH\Desktop\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.Properties.Resources.resources
+C:\Users\PGH\Desktop\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\S100\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.exe
+C:\Users\user\Desktop\S100\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.pdb
+C:\Users\user\Desktop\S100\Encs_Importer\Encs_Importer\bin\Debug\Encs_Importer.exe
+C:\Users\user\Desktop\S100\Encs_Importer\Encs_Importer\bin\Debug\Encs_Importer.pdb
+C:\Users\user\Desktop\S100\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\S100\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.Form1.resources
+C:\Users\user\Desktop\S100\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.Properties.Resources.resources
+C:\Users\user\Desktop\S100\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\Encs_Importer\Encs_Importer\bin\Debug\Encs_Importer.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\Encs_Importer\Encs_Importer\bin\Debug\Encs_Importer.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\Encs_Importer\Encs_Importer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.Form1.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\Encs_Importer\Encs_Importer\obj\x86\Debug\Encs_Importer.Properties.Resources.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\Encs_Importer\Encs_Importer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\카카오톡 받은 파일\Encs_Importer\Encs_Importer\obj\x86\Debug\GenerateResource.write.1.tlog

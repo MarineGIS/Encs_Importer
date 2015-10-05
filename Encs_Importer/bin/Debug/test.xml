@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dataset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Points>
+    <Point id="1">
+      <Coordinate2D>
+        <x>1440000000</x>
+        <y>289931390</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="2">
+      <Coordinate2D>
+        <x>1440000000</x>
+        <y>307531600</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="3">
+      <Coordinate2D>
+        <x>1484088042</x>
+        <y>320000000</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="4">
+      <Coordinate2D>
+        <x>1550355949</x>
+        <y>320000000</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="5">
+      <Coordinate2D>
+        <x>1440000000</x>
+        <y>239999893</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="6">
+      <Coordinate2D>
+        <x>1440000000</x>
+        <y>231658790</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="7">
+      <Coordinate2D>
+        <x>1569942364</x>
+        <y>217005550</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="8">
+      <Coordinate2D>
+        <x>1569942364</x>
+        <y>240000000</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="9">
+      <Coordinate2D>
+        <x>1451994932</x>
+        <y>273526364</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="10">
+      <Coordinate2D>
+        <x>1569942364</x>
+        <y>280155726</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="11">
+      <Coordinate2D>
+        <x>1500000000</x>
+        <y>216555740</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="12">
+      <Coordinate2D>
+        <x>1450503730</x>
+        <y>238562943</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="13">
+      <Coordinate2D>
+        <x>1451051967</x>
+        <y>238930556</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="14">
+      <Coordinate2D>
+        <x>1440000000</x>
+        <y>230120721</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="15">
+      <Coordinate2D>
+        <x>1569942364</x>
+        <y>320000000</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="16">
+      <Coordinate2D>
+        <x>1444968100</x>
+        <y>320000000</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="17">
+      <Coordinate2D>
+        <x>1531680834</x>
+        <y>180000000</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="18">
+      <Coordinate2D>
+        <x>1442195565</x>
+        <y>320000000</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="19">
+      <Coordinate2D>
+        <x>1440000000</x>
+        <y>318636268</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="20">
+      <Coordinate2D>
+        <x>1521714183</x>
+        <y>203324348</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="21">
+      <Coordinate2D>
+        <x>1539882223</x>
+        <y>242645523</y>
+      </Coordinate2D>
+    </Point>
+    <Point id="22">
+      <Coordinate2D>
+        <x>1519309839</x>
+        <y>257567698</y>
+      </Coordinate2D>
+    </Point>
+  </Points>
+  <MultiPoints>
+    <MultiPoint id="1">
+      <Coordinate3D>
+        <x>1451866194</x>
+        <y>272512559</y>
+        <z>7400</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1507673780</x>
+        <y>229208576</y>
+        <z>383000</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1511889924</x>
+        <y>315703896</y>
+        <z>130900</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1516355496</x>
+        <y>286681699</y>
+        <z>492800</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1517321025</x>
+        <y>272424052</y>
+        <z>120400</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1512533610</x>
+        <y>204885287</y>
+        <z>171200</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1565348055</x>
+        <y>316283214</y>
+        <z>366400</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1563199752</x>
+        <y>287518491</y>
+        <z>588000</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1558573258</x>
+        <y>247320294</y>
+        <z>315800</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1558774410</x>
+        <y>204080680</y>
+        <z>71500</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1550229477</x>
+        <y>227534992</y>
+        <z>142600</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1552434102</x>
+        <y>185083893</y>
+        <z>373900</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1567456127</x>
+        <y>229538465</y>
+        <z>172100</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1546053564</x>
+        <y>243635191</y>
+        <z>89600</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1539648887</x>
+        <y>262535424</y>
+        <z>340000</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1535175269</x>
+        <y>294172596</y>
+        <z>132000</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1533654560</x>
+        <y>279890811</y>
+        <z>134900</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1529840720</x>
+        <y>233762655</y>
+        <z>91400</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1527008501</x>
+        <y>249170891</y>
+        <z>96100</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1531691317</x>
+        <y>213100331</y>
+        <z>93800</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1527161377</x>
+        <y>192051796</y>
+        <z>130300</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1453290350</x>
+        <y>300078416</y>
+        <z>575600</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1443208616</x>
+        <y>239982272</y>
+        <z>296000</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1441430433</x>
+        <y>261312420</y>
+        <z>52000</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1457876613</x>
+        <y>278659761</y>
+        <z>104300</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1472190583</x>
+        <y>256887078</y>
+        <z>32000</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1475626258</x>
+        <y>239298356</y>
+        <z>755200</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1476704432</x>
+        <y>279400000</y>
+        <z>185700</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1468602033</x>
+        <y>317586678</y>
+        <z>586000</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1481089544</x>
+        <y>302564654</y>
+        <z>578000</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1487647096</x>
+        <y>269921722</y>
+        <z>106200</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1500086330</x>
+        <y>242034022</y>
+        <z>87700</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1496980544</x>
+        <y>258431925</y>
+        <z>309000</z>
+      </Coordinate3D>
+      <Coordinate3D>
+        <x>1495588573</x>
+        <y>285531110</y>
+        <z>597000</z>
+      </Coordinate3D>
+    </MultiPoint>
+  </MultiPoints>
+  <Curves>
+    <Curve id="1">
+      <Boundary ref="9" boundaryType="BE" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1452067346</x>
+          <y>273526364</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1452662756</x>
+          <y>273293028</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1453065060</x>
+          <y>272930955</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1453201843</x>
+          <y>272689572</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1453201843</x>
+          <y>272214854</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1453065060</x>
+          <y>271917149</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1452598387</x>
+          <y>271498753</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1452260452</x>
+          <y>271378062</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1451463891</x>
+          <y>271378062</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1451198370</x>
+          <y>271490707</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1450723652</x>
+          <y>271973472</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1450586868</x>
+          <y>272263130</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1450586868</x>
+          <y>272689572</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1450723652</x>
+          <y>272987277</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1451190324</x>
+          <y>273405673</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1451930563</x>
+          <y>273526364</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="2">
+      <Boundary ref="20" boundaryType="BE" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1521271649</x>
+          <y>203436994</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1521102681</x>
+          <y>203831251</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1521159004</x>
+          <y>204169186</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1521327971</x>
+          <y>204507122</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1521665906</x>
+          <y>204619767</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1522060164</x>
+          <y>204507122</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1522229132</x>
+          <y>204225509</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1522285454</x>
+          <y>203887574</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1522172809</x>
+          <y>203549639</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1522003842</x>
+          <y>203324348</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="3">
+      <Boundary ref="3" boundaryType="Begin" />
+      <Boundary ref="1" boundaryType="End" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1483113978</x>
+          <y>319249056</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1481282760</x>
+          <y>317823164</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1480359119</x>
+          <y>317129981</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1475050975</x>
+          <y>313065101</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1470456086</x>
+          <y>309899643</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1469106767</x>
+          <y>308916592</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1465026686</x>
+          <y>306086380</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1462874201</x>
+          <y>304584638</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1458794120</x>
+          <y>301853279</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1456481002</x>
+          <y>300317011</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1453268339</x>
+          <y>298218218</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1449188257</x>
+          <y>295637608</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1446810887</x>
+          <y>294147919</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1442730805</x>
+          <y>291613201</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="4">
+      <Boundary ref="18" boundaryType="Begin" />
+      <Boundary ref="19" boundaryType="End" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1441677981</x>
+          <y>319680532</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1440246894</x>
+          <y>318786751</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1440122942</x>
+          <y>318709826</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="5">
+      <Boundary ref="4" boundaryType="Begin" />
+      <Boundary ref="13" boundaryType="End" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1549102074</x>
+          <y>318755730</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1547367236</x>
+          <y>317026989</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1544732853</x>
+          <y>314441540</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1541070417</x>
+          <y>310936967</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1539367705</x>
+          <y>309304396</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1535576763</x>
+          <y>305780660</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1532829936</x>
+          <y>303199017</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1531817948</x>
+          <y>302243944</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1531207542</x>
+          <y>301685804</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1527255966</x>
+          <y>298134173</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1523304391</x>
+          <y>294569754</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1522854618</x>
+          <y>294176047</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1518774536</x>
+          <y>290625765</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1514694454</x>
+          <y>287063088</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1514341061</x>
+          <y>286751476</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1510260979</x>
+          <y>283345996</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1506180898</x>
+          <y>279900935</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1505666871</x>
+          <y>279473082</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1501586790</x>
+          <y>276158580</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1497506708</x>
+          <y>272862614</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1496799922</x>
+          <y>272288388</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1492719840</x>
+          <y>269096004</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1488639758</x>
+          <y>265894471</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1487772339</x>
+          <y>265229952</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1483692257</x>
+          <y>262133394</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1479612175</x>
+          <y>259057540</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1478584123</x>
+          <y>258272766</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1474504041</x>
+          <y>255332474</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1470423959</x>
+          <y>252355657</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1469203147</x>
+          <y>251478713</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1465123065</x>
+          <y>248580286</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1462874201</x>
+          <y>246996421</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1459693665</x>
+          <y>244793227</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1455613583</x>
+          <y>242026378</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1451533501</x>
+          <y>239253442</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="6">
+      <Boundary ref="12" boundaryType="Begin" />
+      <Boundary ref="6" boundaryType="End" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1449991423</x>
+          <y>238219422</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1445911341</x>
+          <y>235556690</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1441831259</x>
+          <y>232858815</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="7">
+      <Boundary ref="10" boundaryType="Begin" />
+      <Boundary ref="11" boundaryType="End" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1569020584</x>
+          <y>279244824</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1568249545</x>
+          <y>278474093</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1564458603</x>
+          <y>274841388</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1560699787</x>
+          <y>271196534</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1557294365</x>
+          <y>267885685</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1553407042</x>
+          <y>264217983</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1549519720</x>
+          <y>260538451</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1548941441</x>
+          <y>259986959</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1544925612</x>
+          <y>256293970</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1540941910</x>
+          <y>252589400</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1540460011</x>
+          <y>252151094</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1536379929</x>
+          <y>248433718</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1532299847</x>
+          <y>244705018</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1531914328</x>
+          <y>244322706</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1527834246</x>
+          <y>240699665</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1523754164</x>
+          <y>237036664</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1523240138</x>
+          <y>236592849</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1519160056</x>
+          <y>233007194</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1515079974</x>
+          <y>229441493</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1514646264</x>
+          <y>229039753</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1514469568</x>
+          <y>228876047</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1510389486</x>
+          <y>225388855</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1506309404</x>
+          <y>221862812</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1505570492</x>
+          <y>221264285</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1501490410</x>
+          <y>217817780</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="8">
+      <Boundary ref="7" boundaryType="Begin" />
+      <Boundary ref="17" boundaryType="End" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1567896152</x>
+          <y>214994392</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1564715616</x>
+          <y>211864174</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1560764041</x>
+          <y>208032590</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1556812465</x>
+          <y>204191132</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1553664055</x>
+          <y>201098817</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1549680353</x>
+          <y>197239932</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1548106149</x>
+          <y>195748535</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1544058193</x>
+          <y>191876593</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1540010238</x>
+          <y>187995414</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1535962283</x>
+          <y>184105157</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1534131065</x>
+          <y>182325528</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="9">
+      <Boundary ref="2" boundaryType="Begin" />
+      <Boundary ref="16" boundaryType="End" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1440000000</x>
+          <y>320000000</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="10">
+      <Boundary ref="16" boundaryType="Begin" />
+      <Boundary ref="2" boundaryType="End" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1444968100</x>
+          <y>307531600</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="11">
+      <Boundary ref="16" boundaryType="Begin" />
+      <Boundary ref="3" boundaryType="End" />
+      <Segment interpolation="Linear" />
+    </Curve>
+    <Curve id="12">
+      <Boundary ref="3" boundaryType="Begin" />
+      <Boundary ref="4" boundaryType="End" />
+      <Segment interpolation="Linear" />
+    </Curve>
+    <Curve id="13">
+      <Boundary ref="4" boundaryType="Begin" />
+      <Boundary ref="15" boundaryType="End" />
+      <Segment interpolation="Linear" />
+    </Curve>
+    <Curve id="14">
+      <Boundary ref="10" boundaryType="Begin" />
+      <Boundary ref="15" boundaryType="End" />
+      <Segment interpolation="Linear" />
+    </Curve>
+    <Curve id="15">
+      <Boundary ref="8" boundaryType="Begin" />
+      <Boundary ref="10" boundaryType="End" />
+      <Segment interpolation="Linear" />
+    </Curve>
+    <Curve id="16">
+      <Boundary ref="5" boundaryType="Begin" />
+      <Boundary ref="8" boundaryType="End" />
+      <Segment interpolation="Linear" />
+    </Curve>
+    <Curve id="17">
+      <Boundary ref="5" boundaryType="Begin" />
+      <Boundary ref="1" boundaryType="End" />
+      <Segment interpolation="Linear" />
+    </Curve>
+    <Curve id="18">
+      <Boundary ref="1" boundaryType="Begin" />
+      <Boundary ref="2" boundaryType="End" />
+      <Segment interpolation="Linear" />
+    </Curve>
+    <Curve id="19">
+      <Boundary ref="7" boundaryType="Begin" />
+      <Boundary ref="8" boundaryType="End" />
+      <Segment interpolation="Linear" />
+    </Curve>
+    <Curve id="20">
+      <Boundary ref="17" boundaryType="Begin" />
+      <Boundary ref="7" boundaryType="End" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1569942364</x>
+          <y>180000000</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="21">
+      <Boundary ref="11" boundaryType="Begin" />
+      <Boundary ref="17" boundaryType="End" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1500000000</x>
+          <y>180000000</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="22">
+      <Boundary ref="13" boundaryType="Begin" />
+      <Boundary ref="11" boundaryType="End" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1500000000</x>
+          <y>238930556</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="23">
+      <Boundary ref="12" boundaryType="Begin" />
+      <Boundary ref="13" boundaryType="End" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1450961111</x>
+          <y>238930556</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+    <Curve id="24">
+      <Boundary ref="14" boundaryType="Begin" />
+      <Boundary ref="12" boundaryType="End" />
+      <Segment interpolation="Linear" />
+    </Curve>
+    <Curve id="25">
+      <Boundary ref="14" boundaryType="Begin" />
+      <Boundary ref="6" boundaryType="End" />
+      <Segment interpolation="Linear" />
+    </Curve>
+    <Curve id="26">
+      <Boundary ref="6" boundaryType="Begin" />
+      <Boundary ref="5" boundaryType="End" />
+      <Segment interpolation="Linear" />
+    </Curve>
+    <Curve id="27">
+      <Boundary ref="15" boundaryType="Begin" />
+      <Boundary ref="14" boundaryType="End" />
+      <Segment interpolation="Linear">
+        <ControlPoint>
+          <x>1600000000</x>
+          <y>320000000</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1600000000</x>
+          <y>160000000</y>
+        </ControlPoint>
+        <ControlPoint>
+          <x>1440000000</x>
+          <y>160000000</y>
+        </ControlPoint>
+      </Segment>
+    </Curve>
+  </Curves>
+  <CompositeCurves>
+    <CompositeCurve id="1">
+      <Curve ref="12" orientation="Forward" />
+      <Curve ref="13" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="2">
+      <Curve ref="9" orientation="Forward" />
+      <Curve ref="11" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="3">
+      <Curve ref="18" orientation="Forward" />
+      <CompositeCurve ref="2" orientation="Forward" />
+      <CompositeCurve ref="1" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="4">
+      <Curve ref="25" orientation="Forward" />
+      <Curve ref="26" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="5">
+      <Curve ref="17" orientation="Forward" />
+      <CompositeCurve ref="4" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="6">
+      <Curve ref="24" orientation="Reverse" />
+      <CompositeCurve ref="5" orientation="Forward" />
+      <CompositeCurve ref="3" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="7">
+      <Curve ref="14" orientation="Reverse" />
+      <Curve ref="15" orientation="Reverse" />
+    </CompositeCurve>
+    <CompositeCurve id="8">
+      <Curve ref="19" orientation="Reverse" />
+      <Curve ref="20" orientation="Reverse" />
+      <Curve ref="21" orientation="Reverse" />
+      <Curve ref="22" orientation="Reverse" />
+      <Curve ref="23" orientation="Reverse" />
+    </CompositeCurve>
+    <CompositeCurve id="9">
+      <CompositeCurve ref="7" orientation="Forward" />
+      <CompositeCurve ref="8" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="10">
+      <CompositeCurve ref="9" orientation="Forward" />
+      <CompositeCurve ref="6" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="11">
+      <Curve ref="18" orientation="Forward" />
+      <Curve ref="10" orientation="Reverse" />
+      <Curve ref="11" orientation="Forward" />
+      <Curve ref="12" orientation="Forward" />
+      <Curve ref="13" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="12">
+      <CompositeCurve ref="5" orientation="Forward" />
+      <CompositeCurve ref="11" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="13">
+      <Curve ref="24" orientation="Reverse" />
+      <CompositeCurve ref="12" orientation="Forward" />
+      <CompositeCurve ref="9" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="14">
+      <CompositeCurve ref="5" orientation="Forward" />
+      <CompositeCurve ref="3" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="15">
+      <Curve ref="24" orientation="Reverse" />
+      <CompositeCurve ref="14" orientation="Forward" />
+      <CompositeCurve ref="9" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="16">
+      <Curve ref="11" orientation="Forward" />
+      <Curve ref="12" orientation="Forward" />
+      <Curve ref="13" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="17">
+      <Curve ref="18" orientation="Forward" />
+      <Curve ref="10" orientation="Reverse" />
+    </CompositeCurve>
+    <CompositeCurve id="18">
+      <Curve ref="24" orientation="Reverse" />
+      <CompositeCurve ref="5" orientation="Forward" />
+      <CompositeCurve ref="17" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="19">
+      <CompositeCurve ref="16" orientation="Forward" />
+      <CompositeCurve ref="9" orientation="Forward" />
+      <CompositeCurve ref="18" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="20">
+      <Curve ref="12" orientation="Forward" />
+      <Curve ref="13" orientation="Forward" />
+      <Curve ref="14" orientation="Reverse" />
+      <Curve ref="15" orientation="Reverse" />
+      <Curve ref="16" orientation="Reverse" />
+      <Curve ref="17" orientation="Forward" />
+      <Curve ref="18" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="21">
+      <CompositeCurve ref="2" orientation="Forward" />
+      <CompositeCurve ref="20" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="22">
+      <Curve ref="16" orientation="Forward" />
+      <CompositeCurve ref="4" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="23">
+      <Curve ref="24" orientation="Reverse" />
+      <CompositeCurve ref="22" orientation="Forward" />
+      <CompositeCurve ref="8" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="24">
+      <Curve ref="24" orientation="Forward" />
+      <Curve ref="27" orientation="Forward" />
+      <CompositeCurve ref="9" orientation="Reverse" />
+    </CompositeCurve>
+    <CompositeCurve id="25">
+      <Curve ref="10" orientation="Forward" />
+      <Curve ref="9" orientation="Forward" />
+    </CompositeCurve>
+    <CompositeCurve id="26">
+      <Curve ref="9" orientation="Forward" />
+      <Curve ref="10" orientation="Forward" />
+    </CompositeCurve>
+  </CompositeCurves>
+  <Surfaces>
+    <Surface id="1">
+      <InnerRing>
+        <CompositeCurve ref="25" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="2">
+      <InnerRing>
+        <CompositeCurve ref="26" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="3">
+      <InnerRing>
+        <CompositeCurve ref="21" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="4">
+      <InnerRing>
+        <CompositeCurve ref="10" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="5">
+      <InnerRing>
+        <CompositeCurve ref="13" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="6">
+      <InnerRing>
+        <CompositeCurve ref="13" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="7">
+      <InnerRing>
+        <CompositeCurve ref="13" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="8">
+      <InnerRing>
+        <CompositeCurve ref="23" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="9">
+      <InnerRing>
+        <CompositeCurve ref="24" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="10">
+      <InnerRing>
+        <CompositeCurve ref="15" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="11">
+      <InnerRing>
+        <CompositeCurve ref="13" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="12">
+      <InnerRing>
+        <Curve ref="1" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="13">
+      <InnerRing>
+        <Curve ref="2" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="14">
+      <InnerRing>
+        <CompositeCurve ref="26" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="15">
+      <InnerRing>
+        <CompositeCurve ref="19" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+    <Surface id="16">
+      <OuterRing>
+        <Curve ref="1" orientation="Reverse" />
+      </OuterRing>
+      <InnerRing>
+        <CompositeCurve ref="13" orientation="Forward" />
+      </InnerRing>
+    </Surface>
+  </Surfaces>
+  <Features>
+    <DepthArea id="6" primitive="Surface">
+      <Surface ref="12" />
+      <depthRangeMinimumValue>0</depthRangeMinimumValue>
+      <depthRangeMaximumValue>200</depthRangeMaximumValue>
+    </DepthArea>
+    <DepthArea id="15" primitive="Surface">
+      <Surface ref="14" />
+      <depthRangeMinimumValue>200</depthRangeMinimumValue>
+      <depthRangeMaximumValue>10000</depthRangeMaximumValue>
+    </DepthArea>
+    <DepthArea id="17" primitive="Surface">
+      <Surface ref="16" />
+      <depthRangeMinimumValue>200</depthRangeMinimumValue>
+      <depthRangeMaximumValue>10000</depthRangeMaximumValue>
+    </DepthArea>
+    <Landmark id="19" primitive="Point">
+      <Point ref="21" />
+      <objectName>11</objectName>
+    </Landmark>
+  </Features>
+</Dataset>

@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Encs_Importer.Common.Common_Record" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Common_Record.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.Common.Common_SubRecord" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Common_SubRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.ENC_Builder.Builder" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAIAAAAAFAAAAJgAAAIQAAAAAAAAI=</HashCode>
+      <FileName>ENC_Builder\Builder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.ENC_Builder.InputSchemaObject" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ENC_Builder\InputSchemaObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.ENC_Builder.Model_S_101" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAiAAAAAAAAAAAEIAAAQAAIAAgAAAAAAAAAAA=</HashCode>
+      <FileName>ENC_Builder\Model_S-101.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.Factory.BinaryReader" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAEAACAAAAAAAAAA=</HashCode>
+      <FileName>Factory\BinaryReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.Form1" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAFBBCAAAFAQAACAAAACCAAYCAAAAWAEAYAAABA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.Program" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.ISO_IEC_8211.ISO_8211" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAABgAAAAABACAIAgAAAAhAAAAACAAACAAAAAgAAAAA=</HashCode>
+      <FileName>ISO_IEC_8211\ISO_8211.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.ISO_IEC_8211.ISO_8211_DataRecord" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>ISO_IEC_8211\ISO_8211_DataRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.ISO_IEC_8211.ISO_8211_DataRecordBase" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>ISO_IEC_8211\ISO_8211_DataRecordBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.ISO_IEC_8211.ISO_8211_DataRecordHeader" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISO_IEC_8211\ISO_8211_DataRecordHeader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.ISO_IEC_8211.ISO_8211_Directory" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAgAEAAIABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISO_IEC_8211\ISO_8211_Directory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.ISO_IEC_8211.ISO_8211_Leader" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAhAYAAAICAEBEAAJAIAAAAABAAIAAAIAAEEAAAgI=</HashCode>
+      <FileName>ISO_IEC_8211\ISO_8211_Leader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.ISO_IEC_8211.ISO_8211_Record_DataDesc" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAEAAAAIAIAAAAACAAAAEAA=</HashCode>
+      <FileName>ISO_IEC_8211\ISO_8211_Record_DataDesc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.ISO_IEC_8211.ISO_8211_Record_Field" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISO_IEC_8211\ISO_8211_Record_Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.ISO_IEC_8211.ISO_8211_Record_SubField" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABACAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISO_IEC_8211\ISO_8211_Record_SubField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.ISO_IEC_8211.Utilities" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISO_IEC_8211\Utilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.Properties.Resources" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encs_Importer.Properties.Settings" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>
